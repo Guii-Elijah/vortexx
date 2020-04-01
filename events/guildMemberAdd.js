@@ -18,7 +18,7 @@ module.exports = async (client, member) => {
     .setAuthor(`👋 Bem-vindo(a) ao servidor!`)
     .setTitle('Leia nossas regras para evitar confusões')
     .setDescription(`${member}, para ter acesso aos outros canais vá em <#680406548979515527>.`)
-    .setFooter(`2020 ©Liga dos Programadores`)
+    .setFooter(`2020 ©Area da programação`)
     .setTimestamp()
 
   let join = new Discord.RichEmbed()
