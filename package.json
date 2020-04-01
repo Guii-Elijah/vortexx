@@ -1,15 +1,14 @@
 {
-  "name": "project-a",
+  "name": "vortex",
   "version": "1.0.0",
   "description": "Um bot para o discord.",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Liga dos Programadores",
+  "author": "Area da programação",
   "contributors": [
-    "Rafael \"Bee\" Pereira <rafael@beecoding.net> (https://rafael.wtf)",
-    "Álvaro Filho (https://alvarofilho.github.io/)"
+    "vortex:(https://github.com/yongvortex/vortexx) "
   ],
   "license": "Unlicense",
   "dependencies": {
