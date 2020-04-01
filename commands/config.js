@@ -8,7 +8,7 @@ module.exports = {
     /** Objeto embed que irá ser enviado. */
     let embed = {
       color: 0xB1103C,
-      title: 'PROJECT: A - Lista de comandos',
+      title: 'Area da programação - Lista de comandos',
       url: 'https://github.com/yongvortex/vortexx',
       footer: {
         text: 'Não se esqueça de checar nosso código-fonte | 2020 ®Area da programação'
