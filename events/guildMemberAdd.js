@@ -26,7 +26,7 @@ module.exports = async (client, member) => {
     .setColor('RANDOM')
     .setAuthor(`✨ Um novo membro entrou no servidor!`)
     .setDescription(`${member} acabou de entrar.`)
-    .setFooter(`2020 ©Liga dos Programadores`)
+    .setFooter(`2020 ©Area da programação`)
     .setTimestamp()
 
   member.guild.channels.get(process.env.JOINCHANNEL).send(join).catch()
